@@ -1,1 +1,2 @@
-# crc_gen
+## crc_gen
+### generic paramaterized CRC genereator
